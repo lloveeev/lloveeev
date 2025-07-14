@@ -1,6 +1,9 @@
 # 💻 Full-Stack Developer Portfolio
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lloveeev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/lloveeev)
+[![CodeFactor](https://www.codefactor.io/repository/github/lloveeev/ElbrusBackEnd/badge)](https://www.codefactor.io/repository/github/lloveeev/ElbrusBackEnd)
+[![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://prettier.io/)
+[![GitHub Actions](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/main.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions)
 
 ---
 
