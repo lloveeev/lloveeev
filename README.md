@@ -1,7 +1,6 @@
 # 💻 FULL-STACK DEVELOPER
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lloveeev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/lloveeev)
-
 [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://prettier.io/)
 
 ---
